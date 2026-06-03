@@ -2,7 +2,7 @@
 
 This repository hosts a comprehensive end-to-end project that analyzes customer purchase behavior and sentiment using SQL, Python, and Power BI. The project combines structured data on customer transactions and reviews to deliver actionable insights for businesses.
 
-## Project Overview
+####### Project Overview
 
 ### Objective
 The primary objective of this project is to identify patterns in customer purchase behavior and analyze customer sentiment based on product reviews. These insights will empower businesses to make informed decisions about marketing, product development, and customer engagement strategies.
